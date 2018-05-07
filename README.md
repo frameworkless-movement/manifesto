@@ -29,7 +29,7 @@ These are a draft of the principles that guide us:
 
 ## Our Manifesto
 
-We are going to define and publish the Manifesto of the Movement. **We want to create it sharing our ideas with other developers, so right now we're creating a distributed team to help us to create a good Manifesto**. If you want to be part of this team please send an email to dev@extrategy.net.
+We are going to define and publish the Manifesto of the Movement. **We want to create it sharing our ideas with other developers, so right now we're creating a distributed team to help us to create a good Manifesto**. If you want to be part of this team please send an email to info@frameworklessmovement.org.
 
 ## Current Team
 
