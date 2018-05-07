@@ -6,7 +6,7 @@ The Frameworkless Movement is a group of developers interested in developing app
 
 Everytime that a team is using a framework, it is also taking a **risk**. This risk is, after some time, to be locked up with a tool that is not giving the team any kind of value and that most of the time it represent a major roadblock to change. Most importantly a framework could "die" way before the software that uses it, leaving the developers with a heavy burden.
 
-This risk is amplified with the presence of a strong bond between technical decision making and business goals. We think that every technical decision, including the choice of a framework, should be made considering every aspect of the context the software "lives".
+This risk is amplified without the presence of a strong bond between technical decision making and business goals. We think that every technical decision, including the choice of a framework, should be made considering every aspect of the context the software "lives".
 
 ## Our purpose
 
