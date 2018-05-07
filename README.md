@@ -33,7 +33,7 @@ We are going to define and publish the Manifesto of the Movement. **We want to c
 
 ## Current Team
 
-[Antiono Dell'Ava](https://github.com/adellava)
+[Antonio Dell'Ava](https://github.com/adellava)
 
 [Lorenzo Massacci](https://github.com/lorenzomassacci)
 
