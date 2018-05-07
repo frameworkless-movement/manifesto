@@ -39,4 +39,4 @@ We are going to define and publish the Manifesto of the Movement. **We want to c
 
 [Francesco Strazzullo](https://github.com/francesco-strazzullo)
 
-[Alessandrio Violini](https://github.com/Violo)
+[Alessandro Violini](https://github.com/Violo)
