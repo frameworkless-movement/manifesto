@@ -30,3 +30,13 @@ These are a draft of the principles that guide us:
 ## Our Manifesto
 
 We are going to define and publish the Manifesto of the Movement. **We want to create it sharing our ideas with other developers, so right now we're creating a distributed team to help us to create a good Manifesto**. If you want to be part of this team please send an email to dev@extrategy.net.
+
+## Current Team
+
+[Antiono Dell'Ava](https://github.com/adellava)
+
+[Lorenzo Massacci](https://github.com/lorenzomassacci)
+
+[Francesco Strazzullo](https://github.com/francesco-strazzullo)
+
+[Alessandrio Violini](https://github.com/Violo)
