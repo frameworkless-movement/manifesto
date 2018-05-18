@@ -12,7 +12,10 @@ This risk is amplified without the presence of a strong bond between technical d
 
 We commit to learn and help others to learn how to deliver software with a Frameworkless approach. This means to **consider a "No Framework" as an option when choosing a technology** for a new project or a new feature of an existing project. We also want to help everybody to make deliberate tech decisions.
 
-Like we stated before, **we don't think that frameworks are evil**. They are the most powerful tools to learn how to code without them. Nevertheless, we think that frameworks should be used responsibly. Remembering that every tool has some kind of tradeoff.
+Like we stated before, **we don't think that frameworks are evil**. They are the most powerful tools to learn how to code without them. This beacause in order to know how and when you should use one particular framework you have to understand how framworks work. Having clear opportunities and constraints of each framework it will be easier make the right choice, also it will be clear when you don't need a framwork. Furthermore understanding how frameworks works behind the scenes will improve your awareness about vanilla javascript. Every framework is written in vanilla javascript and is very generic. Knowing the frameworks rationali you will able to write better specific code. For example a rendering algorithm ad hoc for your application without depend from a framework.
+
+
+Nevertheless, we think that frameworks should be used responsibly. Remembering that every tool has some kind of tradeoff.
 
 ## Principles
 
