@@ -14,8 +14,18 @@ We commit to learn and help others to learn how to deliver software with a Frame
 
 Like we stated before, **we don't think that frameworks are evil**. They are the most powerful tools to learn how to code without them. This because in order to know how and when you should use one particular framework you have to understand how frameworks work. Having clear opportunities and constraints of each framework it will be easier make the right choice, also it will be clear when you don't need a framework. Furthermore understanding how frameworks work behind the scenes will improve your awareness about vanilla javascript. Every framework is written in vanilla javascript and is very generic. Knowing the frameworks rationale you will able to write better specific code. For example a rendering algorithm ad hoc for your application without depending on a framework.
 
-
 Nevertheless, we think that frameworks should be used responsibly. Remembering that every tool has some kind of tradeoff.
+
+## What Frameworkless Movement is not
+
+Frameworkless **does not mean that we have to (or we want) build our own framework**. But it means taking a conscious decision about if we want to get help to do our own job from tools already exist and in what way.
+
+Frameworkless **does not mean "reinvent the wheel"**. There are a lot of "tools" (frameworks, libraries but also StackOverflow) that solve known and common problems in a great way. Frameworkless means, however, don't assume that in the software I'm writing I can afford to delegate this responsibility and depends on other (library for example) to solve a specific problem. Or worse: don't reinvent the wheel and bind hand and foot to a whole framework even if I don't really need.
+
+Frameworkless **does not mean that you must develop all software by yourself** thinking that this is more secure and more performant ([Not Invented Here syndrome](https://en.wikipedia.org/wiki/Not_invented_here#In_computing)), far from it.
+Frameworkless means give the right importance to the technological decision making, taking into account the entire context where the software will have to "born" and "live". Including the developers' skills who have to develop the software, deciding to get help from a framework keeping in mind the reasons that support this choice and the tradeoff.
+
+Frameworkless **does not mean always develop software without a framework** in every context and in every situation, but means keep in mind during the technological choice that the chance to develop a project or a single feature with no dependence on a framework it is a real possibility.
 
 ## Principles
 
