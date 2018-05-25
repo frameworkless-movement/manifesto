@@ -22,10 +22,11 @@ Frameworkless **does not mean that we have to (or we want) build our own framewo
 
 Frameworkless **does not mean "reinvent the wheel"**. There are a lot of "tools" (frameworks, libraries but also StackOverflow) that solve known and common problems in a great way. Frameworkless means, however, don't assume that in the software I'm writing I can afford to delegate this responsibility and depends on other (library for example) to solve a specific problem. Or worse: don't reinvent the wheel and bind hand and foot to a whole framework even if I don't really need.
 
-Frameworkless **does not mean that you must develop all software by yourself** thinking that this is more secure and more performant ([Not Invented Here syndrome](https://en.wikipedia.org/wiki/Not_invented_here#In_computing)), far from it.
-Frameworkless means give the right importance to the technological decision making, taking into account the entire context where the software will have to "born" and "live". Including the developers' skills who have to develop the software, deciding to get help from a framework keeping in mind the reasons that support this choice and the tradeoff.
+Frameworkless **does not mean that you must develop all software by yourself without a framework** in every context and in every situation, thinking that this is more secure and more performant ([Not Invented Here syndrome](https://en.wikipedia.org/wiki/Not_invented_here#In_computing)), far from it.
 
-Frameworkless **does not mean always develop software without a framework** in every context and in every situation, but means keep in mind during the technological choice that the chance to develop a project or a single feature with no dependence on a framework it is a real possibility.
+Frameworkless means give the right importance to the technological decision making and keep in mind during the technological choice that the chance to develop a project or a single feature with no dependence on a framework it is a real possibility.
+
+But Frameworkless also means that you must take into account the entire context where the software will have to "born" and "live". Including the developers' skills who have to develop the software, deciding to get help from a framework keeping in mind the reasons that support this choice and the tradeoff.
 
 ## Principles
 
