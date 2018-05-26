@@ -39,13 +39,15 @@ These are a draft of the principles that guide us:
 * We will consider non-functional requirements, in order to choose a good framework.
 * We will make explicit the reasons, and the tradeoffs, behind every technical decision.
 
+## Our Manifesto
+
+We are going to define and publish the Manifesto of the Movement. **We want to create it sharing our ideas with other developers, so right now we're creating a distributed team to help us to create a good Manifesto**. If you want to be part of this team please send an email to info@frameworklessmovement.org.
+
 ## Be Involved
 
 **We accept any kind of feedback**, so if you want to discuss with us about any of the topics stated here just open an Issue or a Pull Request.
 
-## Our Manifesto
-
-We are going to define and publish the Manifesto of the Movement. **We want to create it sharing our ideas with other developers, so right now we're creating a distributed team to help us to create a good Manifesto**. If you want to be part of this team please send an email to info@frameworklessmovement.org.
+Since we don't have a manifesto yet, there's no way to actually sign it for now. **To show appreciation for this idea you can star the repo**, it will help us to understand how many people are interested in this topic.
 
 ## Current Team
 
