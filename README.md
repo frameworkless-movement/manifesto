@@ -47,6 +47,8 @@ We are going to define and publish the Manifesto of the Movement. **We want to c
 
 **We accept any kind of feedback**, so if you want to discuss with us about any of the topics stated here just open an Issue or a Pull Request.
 
+Since we don't have a manifesto yet, there's no way to actually sign it for now. **To show appreciation for this idea you can star the repo**, it will help us to understand how many people are interested in this topic.
+
 ## Current Team
 
 [Antonio Dell'Ava](https://github.com/adellava)
