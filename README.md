@@ -23,7 +23,7 @@ Frameworkless **does not mean that we have to (or we want to) build our own fram
 
 Frameworkless **does not mean "reinvent the wheel"**. There are a lot of "tools" (frameworks, libraries but also StackOverflow) that solve known and common problems in a great way. Frameworkless means, however, not to assume that in the software I'm writing I can afford to delegate this responsibility and depend on other software (a library for example) to solve a specific problem. Or worse: don't reinvent the wheel and bind hand and foot to a whole framework even if I don't really need it.
 
-Frameworkless **does not mean that you must develop all software by yourself without a framework** in every context and in every situation, thinking that this is more secure and more high performance ([Not Invented Here syndrome](https://en.wikipedia.org/wiki/Not_invented_here#In_computing)), far from it.
+Frameworkless **does not mean that you must develop all software by yourself without a framework** in every context and in every situation, thinking that this is more secure and more high-performance ([Not Invented Here syndrome](https://en.wikipedia.org/wiki/Not_invented_here#In_computing)), far from it.
 
 Frameworkless means give the right importance to the technological decision making and keep in mind during the technological choice that the chance to develop a project or a single feature with no dependence on a framework is a real possibility.
 
