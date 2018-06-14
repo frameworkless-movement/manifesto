@@ -2,7 +2,7 @@
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-The Frameworkless Movement is a group of developers interested in developing applications without frameworks. We don't hate frameworks, nor we will ever create campaigns against frameworks, but we perceive the **abuse of frameworks as a lack of knowledge regarding technical debt** and the availability of alternatives given by the vanilla language or by dedicated libraries.
+The Frameworkless Movement is a group of developers interested in developing applications without frameworks. We don't hate frameworks, nor we will ever create campaigns against frameworks, but we perceive the **misuse of frameworks as a lack of knowledge regarding technical debt** and the availability of alternatives given by the vanilla language or by dedicated libraries.
 
 ## Why the Movement
 
