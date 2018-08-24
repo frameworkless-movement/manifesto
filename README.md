@@ -8,20 +8,11 @@ The Frameworkless Movement is a group of developers interested in developing app
 
 Every time a team uses a framework, it also takes a **risk**. The risk is that after some time has passed the team ends up with a tool that does not provide any kind of value anymore and that most of the times represents a major roadblock to change. Most importantly a framework could "die" way before the software that uses it, leaving the developers with a heavy burden.
 
-This risk is amplified without the presence of a strong bond between technical decision making, business goals and user experience.
+This risk is amplified without the presence of a strong bond between technical decision making, business goals, and user experience. Instead, the non-functional requirements like deadline, lifespan, budget, usability, future business scenarios and domain-specific constraints should be the primary decision drivers for the architectural choices as well as for the implementation roadmap.
 
-The technological choices on the code of a software produce a big impact on the user experience as they promote or make specific uses more difficult, and limit the business when they lock future evolutions.
+## Is Frameworkless only for developers?
 
-Here some example of how technological choices impact on a project:
-
-- on which hierarchy to prefer between quality, budget, scope, deadline in the whole project and in the single user story
-- on which hierarchy to prefer for the user stories
-- on how easy it will be to change the design and how easy it will pivot the business in the future
-- on how the user can send, receive and manipulate data
-
-Vice versa, design activities, and business goals are those that more clarify these elements.
-
-So we think that every technical decision, including the choice of a framework, should be made considering every aspect of the context the software "lives", and we think it's important to put the others who make decisions about the software in our discussion.
+Because user research, design activities and business goals are those that more clarify the non-functional requirements we think it's important to put everyone who works on the project in our discussion, non-developers included. Every technical decision, including the choice of a framework, should be made considering every aspect of the context the software "lives".
 
 ## Our purpose
 We commit to learn and help others learn how to deliver software with a Frameworkless approach. We want to make everyone **consider a "No Framework" as an option when choosing a technology** for a new project or a new feature of an existing project. Finally, we want to help everybody make mindful technical decisions.
