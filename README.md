@@ -8,7 +8,11 @@ The Frameworkless Movement is a group of developers interested in developing app
 
 Every time a team uses a framework, it also takes a **risk**. The risk is that after some time has passed the team ends up with a tool that does not provide any kind of value anymore and that most of the times represents a major roadblock to change. Most importantly a framework could "die" way before the software that uses it, leaving the developers with a heavy burden.
 
-This risk is amplified without the presence of a strong bond between technical decision making and business goals. We think that every technical decision, including the choice of a framework, should be made considering every aspect of the context the software "lives".
+This risk is amplified without the presence of a strong bond between technical decision making, business goals, and user experience. Instead, the non-functional requirements like deadline, lifespan, budget, usability, future business scenarios and domain-specific constraints should be the primary decision drivers for the architectural choices as well as for the implementation roadmap.
+
+## Is Frameworkless only for developers?
+
+Because user research, design activities and business goals are those that more clarify the non-functional requirements we think it's important to put everyone who works on the project in our discussion, non-developers included. Every technical decision, including the choice of a framework, should be made considering every aspect of the context the software "lives".
 
 ## Our purpose
 We commit to learn and help others learn how to deliver software with a Frameworkless approach. We want to make everyone **consider a "No Framework" as an option when choosing a technology** for a new project or a new feature of an existing project. Finally, we want to help everybody make mindful technical decisions.
@@ -32,6 +36,8 @@ Frameworkless **does not mean that we have to (or we want to) build our own fram
 Frameworkless **does not mean "reinvent the wheel"**. There are a lot of "tools" (frameworks, libraries but also StackOverflow) that solve known and common problems in a great way. 
 
 Frameworkless **does not mean that you must develop all software by yourself without a framework** in every context and in every situation, thinking that this is more secure and more high-performance ([Not Invented Here syndrome](https://en.wikipedia.org/wiki/Not_invented_here#In_computing)), far from it.
+
+Frameworkless is not a model where "everyone protects his own point of view" and acts in separate ways and times. Instead, we are in favor of making shared decisions, thinking about the good of the whole project.
 
 ## Principles
 
