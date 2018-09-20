@@ -74,3 +74,4 @@ Framework per sviluppo software
 * Preparati al fallimento del framework
 * Chediti se la scelta presa in passato sia giusta o no
 * Documenta e irradia le scelte
+* Conoscenza del Framework come meccanismo di difesa
