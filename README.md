@@ -11,7 +11,7 @@ We believe that a framework, when chosen, should be used **responsibly** through
 
 We also want to give the right importance to **technical decision-making** and in realizing that the choice to develop a project or a single feature with no dependence on a framework is a **real possibility**.
 
-**With this manifesto we want to create awareness around these topics, gathering together people in a community.**
+**With this movement we want to create awareness around these topics, gathering together people in a community.**
 
 ## Principles
 
