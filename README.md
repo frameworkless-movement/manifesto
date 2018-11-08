@@ -5,7 +5,7 @@
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-The Frameworkless Movement is a group of developers interested in developing applications without frameworks. We don't hate frameworks, nor we will ever create campaigns against frameworks, but we perceive the **misuse of frameworks as a lack of knowledge regarding technical debt** and the availability of alternatives given by the languages or by dedicated libraries.
+The Frameworkless Movement is a group of developers interested in developing applications without frameworks. We don't hate frameworks, nor we will ever create campaigns against frameworks, but we perceive the **misuse of frameworks as a lack of knowledge regarding technical debt** and we acknowledge the availability of alternatives to frameworks, namely using dedicated libraries, standard libraries, programming languages and operating systems.
 
 We believe that a framework, when chosen, should be used **responsibly** throughout the life of the project. Continuously remind yourself that **every tool has some kind of tradeoff**.
 
@@ -15,15 +15,15 @@ We also want to give the right weight to **technical decision-making** and in re
 
 ## Principles
 
-Everytime that we need to choose a framework for a project we will use these principles to guide our choices.
+Everytime that we consider the choice of a framework for a project we will use these principles to guide our choices.
 
 * **The value of a software is not the code itself but in the reasons behind the existence of that code.**
 
-* **Every decision should be made considering the context. A good choice for a context could be a bad choice for another one.**
+* **Every decision should be made considering the context. A good choice in a given context could be a bad choice in another one.**
 
-* **The choice of a framework is a technical choice and thus should be made by technical people, but to make mindful decisions business needs should be kept in consideration.**
+* **The choice of a framework is a technical one and should be made by technical people, taking business needs into account.**
 
-* **The decision-making criteria that made someone to choose a framework should be accessible to all the members in the team.**
+* **The decision-making criteria that led to the choice of a framework should be known to all the members in the team.**
 
 ## How to sign
 
