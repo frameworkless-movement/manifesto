@@ -17,16 +17,19 @@ We also want to give the right importance to **technical decision-making** and i
 
 Everytime that we need to choose a framework for a project we will use these principles to guide our choices.
 
+* **The value of a software is not the code itself but in the reasons behind the existence of that code.**
+
+* **Every decision should be made considering the context, not simply the list of requirements.**
+
 * **Every project and every team are unique, with their properties and needs. A good choice for a context could be a bad choice for another one.**
 
-* **The choice of a framework is a technical choice and thus should be made by technical people, but to make mindful decisions also all the stakeholders should be kept in consideration.**
-
-* **Every decision should be made considering the context, how a software should work is as much important as what a software should do.**
+* **The choice of a framework is a technical choice and thus should be made by technical people, but to make mindful decisions business needs should be kept in consideration.**
 
 * **The decision-making criteria that made someone to choose a framework should be accessible to all the members in the team.**
 
-* **The value of a software is not the code itself but in the reasons behind the existence of that code.**
-
 ## How to sign
 
-It will not be possible to sign this Manifesto. **We want to keep it alive letting people modify it over time**. We will use GitHub as a virtual meeting place. You can propose a discussion creating an [Issue](https://github.com/frameworkless-movement/manifesto/issues) or propose a modification to the Manifesto with a [Pull Request](https://github.com/frameworkless-movement/manifesto/pulls).
+The purpose of this Manifesto is to have valuable conversations about the movement. We firmly believe that to be useful this manifesto **should be modified during the time as a result of the conversations that our community will have**. Thus, it will not be possible to sign this Manifesto. If you find this Manifesto useful for your work please share it with your network. *Sharing is how we would like people to sign this document*
+
+We will use GitHub as a virtual meeting place. You can propose a discussion creating an [Issue](https://github.com/frameworkless-movement/manifesto/issues) or propose a modification to the Manifesto with a [Pull Request](https://github.com/frameworkless-movement/manifesto/pulls).
+
