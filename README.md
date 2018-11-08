@@ -9,7 +9,7 @@ The Frameworkless Movement is a group of developers interested in developing app
 
 We believe that a framework, when chosen, should be used **responsibly** throughout the life of the project. Continuously remind yourself that **every tool has some kind of tradeoff**.
 
-We also want to give the right importance to **technical decision-making** and in realizing that the choice to develop a project or a single feature with no dependence on a framework is a **real possibility**.
+We also want to give the right weight to **technical decision-making** and in realizing that the choice to develop a project or a single feature with no dependence on a framework is a **real possibility**.
 
 **With this movement we want to create awareness around these topics, gathering together people in a community.**
 
@@ -19,9 +19,7 @@ Everytime that we need to choose a framework for a project we will use these pri
 
 * **The value of a software is not the code itself but in the reasons behind the existence of that code.**
 
-* **Every decision should be made considering the context, not simply the list of requirements.**
-
-* **Every project and every team are unique, with their properties and needs. A good choice for a context could be a bad choice for another one.**
+* **Every decision should be made considering the context. A good choice for a context could be a bad choice for another one.**
 
 * **The choice of a framework is a technical choice and thus should be made by technical people, but to make mindful decisions business needs should be kept in consideration.**
 
