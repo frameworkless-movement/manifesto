@@ -1,59 +1,33 @@
+# Frameworkless Manifesto
+
+
 ![Logo](https://file-aorgnbquet.now.sh)
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-The Frameworkless Movement is a group of developers interested in developing applications without frameworks. We don't hate frameworks, nor we will ever create campaigns against frameworks, but we perceive the **misuse of frameworks as a lack of knowledge regarding technical debt** and the availability of alternatives given by the vanilla language or by dedicated libraries.
+The Frameworkless Movement is a group of developers interested in developing applications without frameworks. We don't hate frameworks, nor we will ever create campaigns against frameworks, but we perceive the **misuse of frameworks as a lack of knowledge regarding technical debt** and the availability of alternatives given by the languages or by dedicated libraries.
 
-## Why the Movement
+We believe that a framework, when chosen, should be used **responsibly** throughout the life of the project. Continuously remind yourself that **every tool has some kind of tradeoff**.
 
-Every time a team uses a framework, it also takes a **risk**. The risk is that after some time has passed the team ends up with a tool that does not provide any kind of value anymore and that most of the times represents a major roadblock to change. Most importantly a framework could "die" way before the software that uses it, leaving the developers with a heavy burden.
+We also want to give the right weight to **technical decision-making** and in realizing that the choice to develop a project or a single feature with no dependence on a framework is a **real possibility**.
 
-This risk is amplified without the presence of a strong bond between technical decision making, business goals, and user experience. Instead, the non-functional requirements like deadline, lifespan, budget, usability, future business scenarios and domain-specific constraints should be the primary decision drivers for the architectural choices as well as for the implementation roadmap.
-
-## Is Frameworkless only for developers?
-
-Because user research, design activities and business goals are those that more clarify the non-functional requirements we think it's important to put everyone who works on the project in our discussion, non-developers included. Every technical decision, including the choice of a framework, should be made considering every aspect of the context the software "lives".
-
-## Our purpose
-We commit to learn and help others learn how to deliver software with a Frameworkless approach. We want to make everyone **consider a "No Framework" as an option when choosing a technology** for a new project or a new feature of an existing project. Finally, we want to help everybody make mindful technical decisions.
-
-## What Frameworkless Movement is
-
-Like we stated above, **we don't think that frameworks are evil**. They are very powerful tools, written in plain vanilla language and in a very generic way, a fact that makes them great **learning tools** which can help anyone learn how to code **without** them. In order to know how and when you should use a particular framework you have to understand how frameworks work. Understanding the strengths and the constraints of each framework will enable you to make the right choice of a framework. Even more, it will be very clear when you don't need one at all. Grasping the concepts of how frameworks work behind the scenes will deepen your knowledge about the language itself. Knowing the framework's rationale will enable you to write better code for each specific problem you encounter.
-
-Nonetheless, we believe that a framework, when chosen, should be used responsibly throughout the life of the project. Continuously remind yourself that every tool has some kind of tradeoff.
-
-Frameworkless means that you must give the right importance to the technological decision making and realize that the choice to develop a project or a single feature with no dependence on a framework is a real possibility!
-
-Frameworkless also means that you must take into account the entire context where the software will have to "be born" and "live". Including the developers' skills who have to develop the software, deciding if they can get help from a framework keeping in mind the reasons that support this choice and its tradeoffs.
-
-Finally, Frameworkless means that you should not assume that writing software is a responsibility you can afford to delegate elsewhere and depend on other software (a library for example) to solve a specific problem you have. You can avoid binding hand and foot to a whole framework when you don't really need it.
-
-## What Frameworkless Movement is not
-
-Frameworkless **does not mean that we have to (or we want to) build our own framework**. 
-
-Frameworkless **does not mean "reinvent the wheel"**. There are a lot of "tools" (frameworks, libraries but also StackOverflow) that solve known and common problems in a great way. 
-
-Frameworkless **does not mean that you must develop all software by yourself without a framework** in every context and in every situation, thinking that this is more secure and more high-performance ([Not Invented Here syndrome](https://en.wikipedia.org/wiki/Not_invented_here#In_computing)), far from it.
-
-Frameworkless is not a model where "everyone protects his own point of view" and acts in separate ways and times. Instead, we are in favor of making shared decisions, thinking about the good of the whole project.
+**With this movement we want to create awareness around these topics, gathering together people in a community.**
 
 ## Principles
 
-These are a draft of the principles that guide us:
+Everytime that we need to choose a framework for a project we will use these principles to guide our choices.
 
-* Our primary objective is to deliver quality software in reasonable time. If we can achieve this without frameworks, we prefer not to use them.
-* We commit to study and understand the code of the framework we use.
-* We also take into consideration non-functional requirements in order to choose a good framework.
-* We make explicit both reasons and tradeoffs behind every technical decision.
+* **The value of a software is not the code itself but in the reasons behind the existence of that code.**
 
-## Our Manifesto
+* **Every decision should be made considering the context. A good choice for a context could be a bad choice for another one.**
 
-We are going to define and publish the Manifesto of the Movement. **We want to create it sharing our ideas with other developers, so right now we're creating a distributed team to help us to create a good Manifesto**. If you want to be part of this team please send an email to info@frameworklessmovement.org.
+* **The choice of a framework is a technical choice and thus should be made by technical people, but to make mindful decisions business needs should be kept in consideration.**
 
-## Get Involved
+* **The decision-making criteria that made someone to choose a framework should be accessible to all the members in the team.**
 
-**We accept any kind of feedback**, so if you want to discuss with us about any of the topics stated here just open an Issue or a Pull Request.
+## How to sign
 
-Since we don't have a manifesto yet, there's no way to actually sign it for now. **To show appreciation for this idea you can star the repo**, it will help us to understand how many people are interested in this topic.
+The purpose of this Manifesto is to have valuable conversations about the movement. We firmly believe that to be useful this manifesto **should be modified during the time as a result of the conversations that our community will have**. Thus, it will not be possible to sign this Manifesto. If you find this Manifesto useful for your work please share it with your network. *Sharing is how we would like people to sign this document*
+
+We will use GitHub as a virtual meeting place. You can propose a discussion creating an [Issue](https://github.com/frameworkless-movement/manifesto/issues) or propose a modification to the Manifesto with a [Pull Request](https://github.com/frameworkless-movement/manifesto/pulls).
+
