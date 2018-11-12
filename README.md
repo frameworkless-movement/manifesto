@@ -21,7 +21,7 @@ Everytime that we consider the choice of a framework for a project we will use t
 
 * **Every decision should be made considering the context. A good choice in a given context could be a bad choice in another one.**
 
-* **The choice of a framework is a technical one and should be made by technical people, taking business needs into account.**
+* **The mindful choice of a framework is a technical one and should be made by technical people, taking business needs into account.**
 
 * **The decision-making criteria that led to the choice of a framework should be known to all the members in the team.**
 
