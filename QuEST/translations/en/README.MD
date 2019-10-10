@@ -1,8 +1,5 @@
 # QuEST Data from Frameworkless workshop
 
-**Translations**
-
-- [English](https://github.com/frameworkless-movement/manifesto/tree/master/QuEST/translations/en/README.md)
 
 ## [Questioning](https://github.com/frameworkless-movement/manifesto/blob/QuEST/QuEST/Question.svg)
 
