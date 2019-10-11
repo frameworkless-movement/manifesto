@@ -13,7 +13,7 @@ We will choose principles that ...
 ### Nice to have
 
 *     They focus on the growth of people
-*     They guide decisions and give no solutio ns
-*     That they are inclusive
+*     They guide decisions and do not give just solutions
+*     They are inclusive
 *     They do not lend themselves to ambiguous interpretations
 

@@ -10,8 +10,8 @@
 *    Codified knowledge and experience
 *    A convention
 *    A solution that maps most problems
-*    A work frame in which compromises were evaluated
-*    a system that defines a structure on which it can be built
+*    A framework in which compromises were evaluated
+*    A system that defines a structure on which it can be built
 
 ## Scope
 
@@ -50,8 +50,8 @@ Framework for software development
 *    The criteria of technological choices must be shared by the whole team
 *    Establish a convention and motivate it
 *    Do not be lazy
-*    Frameworkless! == Hate Framework
-*    Quick! == Hurry
+*    Frameworkless !== Hate Framework
+*    Quick !== Hurry
 *    Courage (born of awareness)
 *    Each solution is more or less valid in a context
 *    Don't take anything for granted (Brain Driven Development)
@@ -61,7 +61,7 @@ Framework for software development
 *    Knowledge of Fundamentals
 *    Be aware of the decisions I am delegating
 *    Training Skills with Katas
-*    Igengneria is the art of compromise
+*    Engineering is the art of compromise
 *    Look for examples of solutions in the frameworks
 *    Generate Options, postpone revocable decisions
 *    Question what you think you understand
