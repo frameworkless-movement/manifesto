@@ -1,10 +1,10 @@
 # QuEST Data from Frameworkless workshop
 
-## [Questioning](https://github.com/frameworkless-movement/manifesto/blob/QuEST/QuEST/Question.svg)
+## [Questioning](https://github.com/frameworkless-movement/manifesto/blob/master/QuEST/Question.svg)
 
-## [Envision](https://github.com/frameworkless-movement/manifesto/blob/QuEST/QuEST/ENVISION.MD)
+## [Envision](https://github.com/frameworkless-movement/manifesto/blob/master/QuEST/Italian/ENVISION.MD)
 
-## [Select](https://github.com/frameworkless-movement/manifesto/blob/QuEST/QuEST/SELECT.MD)
+## [Select](https://github.com/frameworkless-movement/manifesto/blob/QuEST/QuEST/Italian/SELECT.MD)
 
 
 ## [Take](https://docs.google.com/spreadsheets/d/15DaeSvxpRwXG9UFfTagVRSl-JqjqLv_15_UzFeUsiW4/edit?usp=sharing)
