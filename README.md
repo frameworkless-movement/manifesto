@@ -27,7 +27,7 @@ Everytime that we consider the choice of a framework for a project we will use t
 
 ## How to sign
 
-The purpose of this Manifesto is to have valuable conversations about the movement. We firmly believe that to be useful this manifesto **should be modified during the time as a result of the conversations that our community will have**. Thus, it will not be possible to sign this Manifesto. If you find this Manifesto useful for your work please share it with your network. *Sharing is how we would like people to sign this document*
+The purpose of this Manifesto is to have valuable conversations about the movement. We firmly believe that to be useful this manifesto **should be modified during the time as a result of the conversations that our community will have**. Thus, it will not be possible to sign this Manifesto. If you find this Manifesto useful for your work, please share it with your network. *Sharing is how we would like people to sign this document*.
 
 We will use GitHub as a virtual meeting place. You can propose a discussion creating an [Issue](https://github.com/frameworkless-movement/manifesto/issues) or propose a modification to the Manifesto with a [Pull Request](https://github.com/frameworkless-movement/manifesto/pulls).
 
